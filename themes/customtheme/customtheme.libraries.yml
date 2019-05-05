@@ -1,7 +1,0 @@
-global:
-  version: VERSION
-  css:
-    base:
-      css/customtheme.css: {}
-  js:
-    js/customtheme.js: {}
